@@ -1,0 +1,18 @@
+clc;
+close all;
+clear all;
+A1=15;
+A2=10;
+A3=5;
+f1=10^3;
+f2=10^3;
+f3=10^3;
+R1=10^3;
+R2=10^3;
+R3=10^3;
+R4=10^3;
+tipS=2;
+m=uimenu('Label','Documentatie');
+   uimenu(m,'Label','Documentatie','Callback','open(''DocumentatieWord.docx'')');
+   uimenu(m,'Label','Prezentare','Callback','open(''Prezentare.pptx'')');
+calcul_ampsum(A1,A2,A3,f1,f2,f3,R1,R2,R3,R4,tipS);
