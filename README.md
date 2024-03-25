@@ -1,0 +1,1 @@
+	In this project, we have created an interactive interface that provides users with a wide range of options for exploring and understanding concepts related to summing amplifiers. Within this project, we find: displaying the circuit on the screen, the ability to modify resistors, choosing the desired input signal, as well as inputting custom values.
